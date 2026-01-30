@@ -1,0 +1,5 @@
+Ticker,Company_Name,Sector,PE_Ratio,Revenue_Growth,Profit_Margin,Operating_margin,ROE,Current_Ratio,Debt_to_Equity,Employee_Count,Market_Cap_Billions,Total_Rev_Billions,Rev_Per_Employee_K
+AAPL,Apple Inc.,Technology,34.38,0.079,0.2692,0.31647,1.7142199,0.893,152.411,166000,3789.25,416.16,2506.99
+MSFT,Microsoft Corporation,Technology,30.12,0.184,0.3571,0.48873,0.32241002,1.401,33.154,228000,3580.04,293.81,1288.65
+GOOGl,Alphabet Inc.,Communication Services,33.24,0.159,0.3223,0.30512,0.3545,1.747,11.424,190167,4069.79,385.48,2027.04
+AMZN,"Amazon.com, Inc.",Consumer Cyclical,34.37,0.134,0.1106,0.11057,0.24327,1.009,43.405,1578000,2597.83,691.33,438.11

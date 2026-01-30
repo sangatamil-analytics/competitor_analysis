@@ -19,9 +19,9 @@ This project is an end-to-end data pipeline designed to analyze the financial he
 
 I developed a script to extract real-time metrics including Market Cap, Revenue, ROE, and Debt-to-Equity.
 
-    Data Cleaning: Handled scientific notation for trillion-dollar figures by normalizing units to Billions (B) and Thousands (K).
+    *Data Cleaning: Handled scientific notation for trillion-dollar figures by normalizing units to Billions (B) and Thousands (K).
 
-    Feature Engineering: Manually calculated Revenue Per Employee to bridge data gaps in the raw API.
+    *Feature Engineering: Manually calculated Revenue Per Employee to bridge data gaps in the raw API.
 
 2. MySQL Analysis
 

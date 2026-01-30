@@ -3,7 +3,8 @@
 
 This project is an end-to-end data pipeline designed to analyze the financial health and operational efficiency of major technology competitors. It automates the journey of raw financial data from the web into a structured relational database, culminating in an executive-level Power BI dashboard.
 
-![Project dashboard](image/ca_screenshot.png),![ELT ](image/jup1.png)
+![Project dashboard](image/ca_screenshot.png)
+![ELT](image/jup1.png)
 
 🛠️ The Modern Data Stack
 

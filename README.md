@@ -23,6 +23,9 @@ I developed a script to extract real-time metrics including Market Cap, Revenue,
 
     *Feature Engineering: Manually calculated Revenue Per Employee to bridge data gaps in the raw API.
 
+    
+![Project dashboard](image/jupy1.png)
+
 2. MySQL Analysis
 
 Data was imported into a MySQL instance using a custom schema. I authored advanced queries to generate business insights:

@@ -6,6 +6,9 @@ This project is an end-to-end data pipeline designed to analyze the financial he
 <p align="center">
   <img src="image/ca_screenshot.png" width="32%" />
   <img src="image/jupy1.png" width="32%" />
+</p>
+
+<p align="center">
   <img src="image/jup2.png" width="32%" />
   <img src="image/MYSQl.png"width="32%" />  
 </p>

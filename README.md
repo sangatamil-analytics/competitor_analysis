@@ -32,6 +32,7 @@ Data was imported into a MySQL instance using a custom schema. I authored advanc
 
     Efficiency Leaderboard: Using Window Functions (RANK()) to identify the leanest operators.
 
+![Project dashboard](image/mysql.png)
 
 3. Power BI Business Intelligence
 
